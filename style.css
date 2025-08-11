@@ -135,7 +135,7 @@ header {
 }
 
 .concept-img {
-    background-image: url(../image/photo2.jpg);
+    background-image: url(./photo2.jpg);
     background-position: center;
     background-size: cover;
     height: 340px;
